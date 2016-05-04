@@ -1,0 +1,16 @@
+
+Полезные плагины:
+sourseMap,
+gulp-if,
+gulp-newer(фильтр который смотрит на дату модификации файла и в случае изменения пропускает дальше)
+gulp-remember - экономит ресурсы на обработке файлов которые он уже запомнил
+
+
+
+npm init
+npm i --save-dev gulp browser-sync del gulp-autoprefixer gulp-cache gulp-concat gulp-csscomb gulp-cssnano gulp-imagemin gulp-rename gulp-sass gulp-uglifyjs gulp-uncss imagemin-pngquant
+
+
+
+bower init
+(bower list --path) - выводит путь к файлам для подключения в index.html
